@@ -1,0 +1,12 @@
+<!--index.wxml-->
+<view class="box">
+    <view class="title">彩票生成器</view>
+    <view class="one">彩票号：</view>
+    <view class="test" wx:for="{{rand}}">{{item}}</view>
+    <button type='primary' bindtap='newRand'>重新产生</button>
+    <view class="name_and_class">
+      <view>陈俊杰</view>
+      <view>电科19-2</view>
+      <view>夜露死苦</view>
+    </view>
+</view>
