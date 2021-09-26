@@ -1,0 +1,15 @@
+/**index.wxss**/
+.name_and_class{
+  font-size: 15px;
+    margin-bottom: 15px;
+    color: red;
+    font-family: cursive;
+    font-weight: bold;
+}
+input{
+  margin: 20px 0;
+  border-bottom: 1px solid blue;
+}
+button{
+  margin-top: 20px;
+}

@@ -1,0 +1,15 @@
+<!--index.wxml-->
+<view class="box">
+  <view class="title">复利计算器</view>
+  <view>
+    <input placeholder="本金" type="number" bindblur="benjinNum"></input> 
+    <input placeholder="利率 " type="number" bindblur="lilvNum"></input>
+  </view>
+  <view class="title1">五年总得钱：{{S}}</view>
+  <button type="primary" bindtap="calc">求和</button> 
+  <view class="name_and_class">
+      <view>陈俊杰</view>
+      <view>电科19-2</view>
+      <view>夜露死苦</view>
+    </view>
+</view>
