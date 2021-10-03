@@ -1,0 +1,13 @@
+<!--pages/taishan/taishan.wxml-->
+<view class='text1'>
+    1987年12月12日，泰山被列为世界文化与自然双重遗产。2007年3月7日，被评为国家AAAAA级旅游景区。
+</view>
+<view style="text-align: center;">
+    <image src="/images/泰山2.png"></image>
+</view>
+<view style="text-align: center;">
+    <image src="/images/泰山3.png"></image>
+</view>
+<view style="text-align: center;">
+    <image src="/images/泰山4.png"></image>
+</view>

@@ -1,0 +1,13 @@
+<!--pages/quancheng/quancheng.wxml-->
+<view class='text1'>
+    泉城，是济南市的别称，济南位于山东省中西部，因"家家泉水，户户垂柳"，有著名的天下第一泉AAAAA级风景区，内含趵突泉、大明湖、黑虎泉、珍珠泉、白石泉等七十二泉，一派江南风光而得名。气候属暧温带，四季分明。
+</view>
+<view style="text-align: center;">
+    <image src="/images/泉城2.png"></image>
+</view>
+<view style="text-align: center;">
+    <image src="/images/泉城3.png"></image>
+</view>
+<view style="text-align: center;">
+    <image src="/images/泉城4.png"></image>
+</view>

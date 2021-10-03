@@ -1,0 +1,53 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/taishan/taishan",
+    "pages/quancheng/quancheng",
+    "pages/sankong/sankong",
+    "pages/qingdao/qingdao",
+    "pages/tengzhou/tengzhou"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "好客山东欢迎您",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#000",
+    "selectedColor": "#00f",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "/images/首页未选中.png",
+        "selectedIconPath": "/images/首页选中.png"
+      },
+      {
+        "pagePath": "pages/taishan/taishan",
+        "text": "泰山",
+        "iconPath": "/images/泰山未选中.png",
+        "selectedIconPath": "/images/泰山选中.png"
+      },
+      {
+        "pagePath": "pages/quancheng/quancheng",
+        "text": "泉城",
+        "iconPath": "/images/泉城未选中.png",
+        "selectedIconPath": "/images/泉城选中.png"
+      },
+      {
+        "pagePath": "pages/sankong/sankong",
+        "text": "三孔",
+        "iconPath": "/images/三孔未选中.png",
+        "selectedIconPath": "/images/三孔选中.png"
+      },
+      {
+        "pagePath": "pages/tengzhou/tengzhou",
+        "text": "老家",
+        "iconPath": "/images/家乡未选中.png",
+        "selectedIconPath": "/images/家乡选中.png"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json"
+}

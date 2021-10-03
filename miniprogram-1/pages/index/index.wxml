@@ -1,0 +1,30 @@
+<view style="text-align: center;">
+    <image src="/images/泰山1.png"></image>
+</view>
+<view class='text1'>
+    泰山，又名岱山、岱宗、岱岳、东岳、泰岳，为五岳之一，位于山东省中部，绵亘于泰安、济南、淄博三市之间，总面积2.42万公顷。主峰玉皇顶海拔1532.7米。
+</view>
+<view style="text-align: center;">
+    <image src="/images/泉城1.png"></image>
+</view>
+<view class='text1'>
+    泉城，是济南市的别称，济南位于山东省中西部，因"家家泉水，户户垂柳"，有著名的天下第一泉AAAAA级风景区，内含趵突泉、大明湖、黑虎泉、珍珠泉、白石泉等七十二泉，一派江南风光而得名。气候属暧温带，四季分明。
+</view>
+<view style="text-align: center;">
+    <image src="/images/三孔1.png"></image>
+</view>
+<view class='text1'>
+    山东济宁曲阜的孔府、孔庙、孔林，统称曲阜"三孔"，是中国历代纪念孔子，是历代儒客朝拜之圣地，推崇儒学的表征，以丰厚的文化积淀、悠久历史、宏大规模、丰富文物珍藏，以及科学艺术价值而著称。
+</view>
+<view style="text-align: center;">
+    <image src="/images/滕州1.png"></image>
+</view>
+<view class='text1'>
+    滕州，古为“三国五邑之地、文化昌明之邦”，考古发掘的距今7300年的“北辛文化”遗址，表明这里是中华民族最早的文明发源地之一 。
+</view>
+<view class="name_and_class">
+      <view>陈俊杰</view>
+      <view>电科19-2</view>
+      <view>夜露死苦</view>
+    </view>
+

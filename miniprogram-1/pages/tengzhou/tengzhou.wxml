@@ -1,0 +1,13 @@
+<!--pages/tengzhou/tengzhou.wxml-->
+<view class='text1'>
+    滕州，古为“三国五邑之地、文化昌明之邦”，考古发掘的距今7300年的“北辛文化”遗址，表明这里是中华民族最早的文明发源地之一 。
+</view>
+<view style="text-align: center;">
+    <image src="/images/滕州2.png"></image>
+</view>
+<view style="text-align: center;">
+    <image src="/images/滕州3.png"></image>
+</view>
+<view style="text-align: center;">
+    <image src="/images/滕州4.png"></image>
+</view>
